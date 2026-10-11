@@ -1,0 +1,14 @@
+{
+  "name": "minecraft-afk-bot",
+  "version": "1.0.0",
+  "description": "AFK Bot Minecraft dengan Live Dashboard di Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "mineflayer": "^4.20.1",
+    "socket.io": "^4.7.5"
+  }
+}
